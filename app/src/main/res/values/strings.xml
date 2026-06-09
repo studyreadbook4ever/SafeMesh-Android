@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeMesh</string>
+    <string name="notif_channel_mesh">SafeMesh mesh</string>
+    <string name="notif_channel_messages">SafeMesh messages</string>
+    <string name="notif_channel_messages_desc">Message alerts received through the BLE mesh</string>
+    <string name="notif_text">SafeMesh BLE mesh active</string>
+</resources>
