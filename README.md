@@ -1,6 +1,14 @@
 @studyreadbook4ever with @FreakRYU
 2026년 1학기 경희대학교 캡스톤디자인 수업에 진행한 프로젝트의 코드입니다. 저희도 많은 공개된 코드의 도움을 받았기에, Unlicense로 올립니다. 
 
+# 프로젝트 개요
+
+[비트챗](https://github.com/permissionlesstech/bitchat/tree/main/bitchat)과 같은 상용 재난통신 프로그램들엔, ux적인 뻑뻑함이 너무 큽니다. 전체적으로 'relay storm'현상을 예방하기 위해 통신의 수를 줄이는 기조를 갖고 있는데 이 지점에서 메시지의 신뢰성이 떨어지는 문제들이 여럿 발견되어 저희 팀은 이 문제를 해결한 코드를 제작하였습니다.
+
+발표자료: https://canva.link/vb0cos2kibkx3ec
+집에서 혼자 발표한 유튜브(발표자 배현준):
+-----
+
 # APK 다운로드
 
 오른쪽 **Releases**에서 최신 릴리스의 `app-debug.apk`를 다운로드하세요.
