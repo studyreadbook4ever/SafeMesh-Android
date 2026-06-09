@@ -6,7 +6,9 @@
 [비트챗](https://github.com/permissionlesstech/bitchat/tree/main/bitchat)과 같은 상용 재난통신 프로그램들엔, ux적인 뻑뻑함이 너무 큽니다. 전체적으로 'relay storm'현상을 예방하기 위해 통신의 수를 줄이는 기조를 갖고 있는데 이 지점에서 메시지의 신뢰성이 떨어지는 문제들이 여럿 발견되어 저희 팀은 이 문제를 해결한 코드를 제작하였습니다.
 
 발표자료: https://canva.link/vb0cos2kibkx3ec
+
 집에서 혼자 발표한 유튜브(발표자 배현준):
+
 -----
 
 # APK 다운로드
