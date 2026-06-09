@@ -7,8 +7,6 @@
 
 발표자료: https://canva.link/vb0cos2kibkx3ec
 
-집에서 혼자 발표한 유튜브(발표자 배현준):
-
 -----
 
 # APK 다운로드
