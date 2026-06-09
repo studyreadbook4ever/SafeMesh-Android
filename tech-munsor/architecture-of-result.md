@@ -1,4 +1,4 @@
-#SafeMesh-Android의 아키텍쳐를 설명하는 문서입니다.
+# SafeMesh-Android의 아키텍쳐를 설명하는 문서입니다.
 
 ### 연결 이전
 
